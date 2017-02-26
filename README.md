@@ -8,3 +8,4 @@
   - [ex05 - Bob](http://exercism.io/submissions/77319ef099974298a9c8bc3e331723b0)
   - [ex06 - Gigasecond](http://exercism.io/submissions/291390955b594bbab1a6fc02a12783b2)
   - [ex07 - Word Count](http://exercism.io/submissions/1110a4a9085e4ec0824116c029b9e878)
+  - [ex08 - Isogram](http://exercism.io/submissions/99c4c4b34a894646932173c996ab9a45)
