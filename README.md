@@ -9,3 +9,4 @@
   - [ex06 - Gigasecond](http://exercism.io/submissions/291390955b594bbab1a6fc02a12783b2)
   - [ex07 - Word Count](http://exercism.io/submissions/1110a4a9085e4ec0824116c029b9e878)
   - [ex08 - Isogram](http://exercism.io/submissions/99c4c4b34a894646932173c996ab9a45)
+  - [ex09 - Pangram](http://exercism.io/submissions/c231a6645b284c5ba66ff452f4b5453d)
