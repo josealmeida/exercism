@@ -2,7 +2,7 @@
   "name": "gigasecond",
   "version": "1.0.0",
   "description": "Calculate the moment when someone has lived for 10^9 seconds.",
-  "main": "gigasecond.spec.js",
+  "main": "gigasecond.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

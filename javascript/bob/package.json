@@ -2,7 +2,7 @@
   "name": "bob",
   "version": "1.0.0",
   "description": "Bob is a lackadaisical teenager. In conversation, his responses are very limited.",
-  "main": "bob.spec.js",
+  "main": "bob.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

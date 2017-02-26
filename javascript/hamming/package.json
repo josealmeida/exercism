@@ -2,7 +2,7 @@
   "name": "hamming",
   "version": "1.0.0",
   "description": "Calculate the Hamming difference between two DNA strands.",
-  "main": "hamming.spec.js",
+  "main": "hamming.js",
   "dependencies": {
     "eslint": "^3.15.0"
   },
